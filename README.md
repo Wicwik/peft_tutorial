@@ -1,4 +1,4 @@
-# What is PEFT? (tutorial)
+# What is PEFT?
 
 ## Examples overview
 
