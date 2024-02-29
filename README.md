@@ -1,1 +1,9 @@
 # What is PEFT? (tutorial)
+
+## Examples overview
+
+| Topic                                         | Google Colab                                                                                                                                                                          | Jupyter Notebook                                                                                                                 |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| 1. Conditional generation with LoRA           | ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Wicwik/peft_tutorial/blob/main/examples/lora_seq2seq.ipynb)      | [Conditional generation with LoRA](https://github.com/Wicwik/peft_tutorial/blob/main/examples/lora_seq2seq.ipynb)                |
+| 2. AdapterFusion                              | ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Wicwik/peft_tutorial/blob/main/examples/adapter_fusion.ipynb)    | [AdapterFusion](https://github.com/Wicwik/peft_tutorial/blob/main/examples/adapter_fusion.ipyn)                                  |
+| 3. Sequence classification with Prompt Tuning | ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Wicwik/peft_tutorial/blob/main/examples/pt_classification.ipynb) | [Sequence classification with Prompt Tuning](https://github.com/Wicwik/peft_tutorial/blob/main/examples/pt_classification.ipynb) |
