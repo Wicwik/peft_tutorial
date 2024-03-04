@@ -1,5 +1,3 @@
-# References
-
 ## Tools
 
 [Adapters](https://github.com/adapter-hub/adapters)
@@ -31,9 +29,13 @@
 [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 
 ### Adapters and AdapterFusion
+
 [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)
 
+[AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://aclanthology.org/2021.eacl-main.39.pdf)
+
 ### Prompt tuning
+
 [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
 
 ### Review
