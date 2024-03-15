@@ -4,3 +4,4 @@ bigscience
 bert-base*
 .ipynb_checkpoints
 ~
+out
