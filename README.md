@@ -10,4 +10,4 @@
 
 ## References
 
-Visit the [references](https://github.com/Wicwik/peft_tutorial/tree/main/references) site.
+Visit the [references](https://github.com/Wicwik/peft_tutorial/tree/main/references) README.
